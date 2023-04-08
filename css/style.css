@@ -1,0 +1,6 @@
+html {
+    box-sizing: border-box;
+    display: flex;
+    font-family: "Nunito-Sans", sans-serif;
+    color: #222;
+}
