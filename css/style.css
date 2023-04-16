@@ -127,7 +127,6 @@ h2 {
     font-size: x-large;
 }
 
-
 .white-boxes {
     display: flex;
     flex-flow: row wrap;
@@ -147,6 +146,7 @@ a {
     background-color: black;
     padding: 5px 10px;
     border-radius: 6%;
+    margin-top: 5rem;
 }
 
 a:hover {
