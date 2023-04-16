@@ -31,6 +31,7 @@ nav a {
     color: #ffffff;
     text-decoration: none;
     padding-right: 50px;
+    font-size: 110%;
 }
 
 header {
@@ -109,11 +110,10 @@ h2 {
 }
 
 .services {
-    display: flexbox;
     padding-left: 1rem;
     padding-right: 1rem;
     padding-top: 0;
-    padding-bottom: 2rem;
+    padding-bottom: 3rem;
     background-color: white;
     width: 25%;
     border-style: solid;
@@ -126,6 +126,7 @@ h2 {
     font-weight: 900;
     font-size: x-large;
 }
+
 
 .white-boxes {
     display: flex;
@@ -146,7 +147,6 @@ a {
     background-color: black;
     padding: 5px 10px;
     border-radius: 6%;
-    margin-top: 5rem;
 }
 
 a:hover {
