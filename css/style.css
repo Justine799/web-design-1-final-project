@@ -99,7 +99,7 @@ h2 {
     background-color: #FAFAFA;
     padding-top: 5rem;
     margin-bottom: 6rem;
-    width: 100%;
+    max-width: 1400px;
 }
 
 #services h2 {
